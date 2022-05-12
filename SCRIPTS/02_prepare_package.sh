@@ -258,6 +258,8 @@ svn export https://github.com/coolsnowwolf/packages/trunk/net/frp package/lean/f
 svn export https://github.com/coolsnowwolf/luci/trunk/applications/luci-app-ipsec-server package/lean/luci-app-ipsec-server
 # IPv6 兼容助手
 svn export https://github.com/coolsnowwolf/lede/trunk/package/lean/ipv6-helper package/lean/ipv6-helper
+#softethervpn
+svn export https://github.com/coolsnowwolf/luci/trunk/applications/luci-app-softethervpn package/lean/luci-app-softethervpn
 # 京东签到 By Jerrykuku
 git clone --depth 1 https://github.com/jerrykuku/node-request.git package/new/node-request
 git clone --depth 1 https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/new/luci-app-jd-dailybonus
